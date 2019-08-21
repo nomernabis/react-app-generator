@@ -1,0 +1,4 @@
+[submodule "ez-react-app"]
+	path = ez-react-app
+	url = https://github.com/nomernabis/ez-react-app
+	branch = master
